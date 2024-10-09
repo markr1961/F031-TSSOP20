@@ -1,0 +1,6 @@
+/Projects/EWARM/F031.dep
+/Projects/EWARM/settings
+/Drivers/CMSIS/DSP
+*.dep
+/EWARM/F031
+/EWARM/settings
